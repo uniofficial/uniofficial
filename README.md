@@ -20,17 +20,12 @@ Welcome to my GitHub profile!
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter)
 
 
