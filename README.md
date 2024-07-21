@@ -39,10 +39,6 @@ Welcome to my GitHub profile!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uniofficial&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniofficial&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=uniofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniofficial&theme=radical)
@@ -50,10 +46,6 @@ Welcome to my GitHub profile!
 ## 📊 Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uniofficial&theme=rogue)
-
-## 🎨 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=uniofficial&color=blue)
 
 ## 📬 Connect with me
 
