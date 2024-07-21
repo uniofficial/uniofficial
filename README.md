@@ -23,6 +23,10 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
@@ -34,24 +38,24 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uniofficial&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniofficial&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uniofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniofficial&theme=radical)
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uniofficial&theme=rogue)
 
 ## 🎨 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=uniofficial&color=blue)
 
 ## 📬 Connect with me
 
