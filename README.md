@@ -43,10 +43,6 @@ Welcome to my GitHub profile!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniofficial&theme=radical)
 
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uniofficial&theme=rogue)
-
 ## 📬 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=D14836)](mailto:uniofficial@naver.com)
