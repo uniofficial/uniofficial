@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-![Header](https://your-image-url.com/banner.png)
+![Header](https://your-image-url.com/gitprof.JPG)
 
 I'm [Jeong Yunhee], a student majoring in computer engineering. 
 Welcome to my GitHub profile!
