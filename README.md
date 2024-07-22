@@ -28,12 +28,6 @@ Welcome to my GitHub profile!
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter)
 
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uniofficial&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniofficial&layout=compact&theme=radical)
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniofficial&theme=radical)
@@ -46,13 +40,13 @@ Welcome to my GitHub profile!
 
 ### 🌟 Featured
 
-- [Project 1](https://github.com/uniofficial/weatherproject) - 설명
-- [Project 2](https://github.com/uniofficial/projectname) - 설명
+- [날씨 기반 여행지 추천 서비스](https://github.com/uniofficial/weatherproject)
+- [Featured Project](https://github.com/uniofficial/projectname) - 수정 예정
 
 ### 🔨 Recent
 
-- [Recent Project 1](https://github.com/yourusername/recentproject1) - 설명
-- [Recent Project 2](https://github.com/yourusername/recentproject2) - 설명
+- [Recent Project 1](https://github.com/yourusername/recentproject1) - 수정 예정
+- [Recent Project 2](https://github.com/yourusername/recentproject2) - 수정 예정
 
 ---
 
