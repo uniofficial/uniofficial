@@ -1,16 +1,12 @@
-# Welcome to My GitHub Profile! 🌟
+# Hi there
 
-I'm [Jeong Yunhee], a student majoring in computer engineering. 
-Welcome to my GitHub profile!
+I'm Jeong Yunhee, a student majoring in computer engineering. 
+Welcome to my GitHub profile
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I’m currently working on: `Personalization Docent Project`
 - 🌱 I’m currently learning: `Technology/Language`
-- 👯 I’m looking to collaborate on: 
-- 🤔 I’m looking for help with: 
-- 💬 Ask me about: 
-- 📫 How to reach me: 'uniofficial@naver.com'
 
 ## 🛠️ Technologies & Tools
 
@@ -27,4 +23,4 @@ Welcome to my GitHub profile!
 
 ## 📬 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=D14836)](mailto:uniofficial@naver.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=D14836)](mailto:cbcb9995@naver.com)
