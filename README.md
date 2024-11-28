@@ -28,26 +28,6 @@ Welcome to my GitHub profile!
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000?&logo=Jupyter)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniofficial&theme=radical)
-
 ## 📬 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=D14836)](mailto:uniofficial@naver.com)
-
-## 📂 Repositories
-
-### 🌟 Featured
-
-- [날씨 기반 여행지 추천 서비스](https://github.com/uniofficial/weatherproject)
-- [Featured Project](https://github.com/uniofficial/projectname) - 수정 예정
-
-### 🔨 Recent
-
-- [Recent Project 1](https://github.com/yourusername/recentproject1) - 수정 예정
-- [Recent Project 2](https://github.com/yourusername/recentproject2) - 수정 예정
-
----
-
-Thank you for visiting my profile! 😊
