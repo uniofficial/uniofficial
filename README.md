@@ -1,5 +1,3 @@
-# Hi there
-
 I'm Jeong Yunhee, a student majoring in computer engineering. 
 Welcome to my GitHub profile
 
