@@ -1,10 +1,8 @@
-I'm Jeong Yunhee, a student majoring in computer engineering. 
-Welcome to my GitHub profile
-
 ## About Me
 
-- 🔭 I’m currently working on: `Personalization Docent Project`
-- 🌱 I’m currently learning: `Technology/Language`
+- I'm Yunhee, a student majoring in computer engineering
+- I’m currently working on: `Personalized Voice Interactive Mobile AI Docent Service`
+- I’m currently learning: Cloud Computing, Algorithm, React, Network etc.
 
 ## 🛠️ Technologies & Tools
 
