@@ -15,9 +15,6 @@ Welcome to my GitHub profile!
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
